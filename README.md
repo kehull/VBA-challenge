@@ -1,7 +1,4 @@
-# VBA-challenge
-VBA Scripting homework
-
-    This script was created to analyze over two million lines of stock market data in an Excel workbook by interating through all three of its worksheets and creating a summary table of relevant information next to the data originally provided. The summary table on each page calculates for each ticker symbol:
+This script was created to analyze over two million lines of stock market data in an Excel workbook by interating through all three of its worksheets and creating a summary table of relevant information next to the data originally provided. The summary table on each page calculates for each ticker symbol:
   - The ticker symbol
   - The change from the first opening price of the year to the closing price of the year, highlighted in green if the change was an increase and red if the change was a decrease
   - The stock's total volume
